@@ -61,7 +61,7 @@ projeto_iluminacao/
 
 ## 🤖 Teste no Wokwi (Simulação)
 Caso queira testar sem hardware físico, use o **Wokwi**:  
-🔗 [Wokwi Simulation](https://wokwi.com)
+🔗 [Wokwi Simulation](https://wokwi.com/projects/423834748134422529)
 
 ---
 🚀 Desenvolvido para estudo e aprendizado de sistemas embarcados! 😊
